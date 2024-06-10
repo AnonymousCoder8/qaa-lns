@@ -1,0 +1,8 @@
+logs/*
+build/
+
+python/__pycache__/
+__pycache__
+
+data/tiny-imagenet-200
+data/cifar-100-python/
